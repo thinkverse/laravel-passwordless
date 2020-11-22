@@ -4,7 +4,8 @@ This is a demo project implementing _Password-less_ authentication with [Laravel
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license]. This project falls under the same license.
+The Laravel framework is open-sourced software licensed under the [MIT license].<br>
+This project falls under the same license.
 
 [Laravel Jetstream]: https://jetstream.laravel.com/
 [mit license]: https://opensource.org/licenses/MIT
